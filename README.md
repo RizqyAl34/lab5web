@@ -32,10 +32,10 @@ Code:
 </html>
 ```
 
-Hasil:
-Jika bilangan ganjil:
+## Hasil:
+# Jika bilangan ganjil:
 ![gambar](ganjil.png)
-Jika bilangan genap:
+# Jika bilangan genap:
 ![gambar](genap.png)
 
 ### FORM BUTTON
@@ -71,10 +71,10 @@ Code:
 </html>
 ```
 
-Hasil:
-Latar belakang hijau:
+## Hasil:
+# Latar belakang hijau:
 ![gambar](ijo.png)
-Teks biru:
+# Teks biru:
 ![gambar](biru.png)
 
 
@@ -114,7 +114,7 @@ Code:
 </html>
 ```
 
-Hasil:
+## Hasil:
 ![gambar](makan.png)
 
 
@@ -237,6 +237,6 @@ Code:
 </html>
 ```
 
-Hasil:
+## Hasil:
 ![gambar](validasi.png)
 
